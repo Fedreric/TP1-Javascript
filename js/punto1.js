@@ -1,0 +1,1 @@
+alert('Este es el punto numero 1 del: TP1 Javascript');
